@@ -1,0 +1,10 @@
+C:\Users\Game\AppData\Local\Temporary Projects\bit_primes_refined\bin\Debug\bit_primes_refined.exe
+C:\Users\Game\AppData\Local\Temporary Projects\bit_primes_refined\bin\Debug\bit_primes_refined.pdb
+C:\Users\Game\AppData\Local\Temporary Projects\bit_primes_refined\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Game\AppData\Local\Temporary Projects\bit_primes_refined\obj\x86\Debug\bit_primes_refined.exe
+C:\Users\Game\AppData\Local\Temporary Projects\bit_primes_refined\obj\x86\Debug\bit_primes_refined.pdb
+C:\Users\Game\Documents\primes_refined_bit_array\bit_primes_refined\bit_primes_refined\bin\Debug\bit_primes_refined.exe
+C:\Users\Game\Documents\primes_refined_bit_array\bit_primes_refined\bit_primes_refined\bin\Debug\bit_primes_refined.pdb
+C:\Users\Game\Documents\primes_refined_bit_array\bit_primes_refined\bit_primes_refined\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Game\Documents\primes_refined_bit_array\bit_primes_refined\bit_primes_refined\obj\x86\Debug\bit_primes_refined.exe
+C:\Users\Game\Documents\primes_refined_bit_array\bit_primes_refined\bit_primes_refined\obj\x86\Debug\bit_primes_refined.pdb
