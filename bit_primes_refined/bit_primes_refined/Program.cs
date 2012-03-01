@@ -1,5 +1,8 @@
 ﻿//Coded by Randy White -=R_DuBz=-
-
+/*
+ *  YOU CAN GRAB THIS CODE AT: http://www.github.com/romxero
+ * 
+ * */
 using System;
 using System.Collections.Generic;
 using System.Collections; //make sure to include regular collections library
